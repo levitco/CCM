@@ -1,4 +1,7 @@
 #!/bin/bash
+git init
+git add .
+git commit -m "$(date +"%D %T")"
 pass="classicmalkvian321"
 /usr/bin/expect <<EOD
 spawn git pull
