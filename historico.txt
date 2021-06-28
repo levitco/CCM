@@ -1,1 +1,0 @@
-Fecha-hora Vc1 mA1 Vc2 mA2 Vc3 mA3 Vc4 mA4 Vc5 mA5 Vc6 mA6 Vc7 mA7 Vc8 mA8 Vc9 mA9
